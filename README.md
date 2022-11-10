@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Trong Hieu Vuong. 
 - 👀 I’m interested in Software Development, Web Development, Web Design, UX/UI Design
-- 🌱 I’m currently learning at University of Victoria, Bachelor of Science, majoring in Computer Science and Visual Arts
+- 🌱 I’m currently learning at University of Victoria, Bachelor of Science, majoring in Computer Science
 - 💞️ I’m profficient in Python, Java, C, HTML, CSS, JavaScript.
 - 📫 For more information please contact me via: tronghieuvuong.work@gmail.com
 
